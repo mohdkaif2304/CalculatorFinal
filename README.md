@@ -1,5 +1,15 @@
-This is the first Kotlin project that i have made learnt the basic concepts and how kotllin provides more flexibility then java and handle mostly the base cases but have some bugs also which i have not handled , 
-these are some images related to my application 
-![Screenshot 2024-03-26 105646](https://github.com/mohdkaif2304/CalculatorFinal/assets/118160035/97663075-41aa-4970-9856-6ee1f6101fc4)
-![Screenshot 2024-03-26 105557](https://github.com/mohdkaif2304/CalculatorFinal/assets/118160035/edee157e-7f0d-4030-8bac-4c2d1d09554f)
-![Screenshot 2024-03-26 105658](https://github.com/mohdkaif2304/CalculatorFinal/assets/118160035/fa188843-3047-4b54-97cc-11a94dde550e)
+##Kotlin Project: Introduction
+Welcome to my first Kotlin project! In this project, I've delved into the basics of Kotlin programming language, exploring its flexibility compared to Java and handling various base cases. While I've managed to address many aspects, there might be some bugs that I haven't handled yet.
+
+##Overview
+This project aims to showcase my learning journey with Kotlin, demonstrating fundamental concepts and practices. Through this endeavor, I've gained insights into how Kotlin offers enhanced flexibility over Java, empowering developers with concise syntax and powerful features.
+
+##Key Features
+Basic Kotlin concepts implemented
+Screenshots
+Here are some screenshots related to the application:
+![Screenshot 2024-03-26 105646](https://github.com/mohdkaif2304/CalculatorFinal/assets/118160035/a78ebd52-be36-40b8-93b8-9bcc2a549d9e)
+![Screenshot 2024-03-26 105557](https://github.com/mohdkaif2304/CalculatorFinal/assets/118160035/118146b6-0c41-4c46-aade-ce3e46e8f98a)
+![Screenshot 2024-03-26 105658](https://github.com/mohdkaif2304/CalculatorFinal/assets/118160035/cf5a7b94-1d4e-4b31-ab0f-22a4676b7ff0)
+
+Feel free to explore the project and provide feedback. Your insights are valuable for further improvement.
