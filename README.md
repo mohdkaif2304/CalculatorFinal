@@ -1,10 +1,11 @@
-##Kotlin Project: Introduction
+##Kotlin Project:
+Introduction
 Welcome to my first Kotlin project! In this project, I've delved into the basics of Kotlin programming language, exploring its flexibility compared to Java and handling various base cases. While I've managed to address many aspects, there might be some bugs that I haven't handled yet.
 
-##Overview
+###Overview
 This project aims to showcase my learning journey with Kotlin, demonstrating fundamental concepts and practices. Through this endeavor, I've gained insights into how Kotlin offers enhanced flexibility over Java, empowering developers with concise syntax and powerful features.
 
-##Key Features
+###Key Features
 Basic Kotlin concepts implemented
 Screenshots
 Here are some screenshots related to the application:
